@@ -1,7 +1,7 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW55ZTh4MTZ6MWducXI0ZTA4Mm1pemZxajMzY2NrNmN5OGdic3dtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp)](https://rishavchanda.io)
-<h1 align="center">Hello Everyone Saksham Singh</h1>
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+<h1 align="center">Hello Everyone, I'm Saksham Singh</h1>
 <h3 align="center">A passionate Software and Machine Learning Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NqYzc1dGx1dXdyOHc4ODA3dHhkaTdjYXBseDVudTZhbHMwcHllNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham292001&label=Profile%20views&color=0e75b6&style=flat" alt="saksham292001" /> </p>
 
